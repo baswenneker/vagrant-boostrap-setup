@@ -41,6 +41,7 @@ cd xxx-theme-project
 ```
 yo webapp
 sudo npm install
+bower install
 ```
 
 ###launch server
